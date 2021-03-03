@@ -50,6 +50,6 @@ V2.0
 V1.0
 > 初步美化适配
 
-![白色模式](https://github.com/dinphy/WangStyle/blob/main/1343550981.png)
-![黑暗模式](https://github.com/dinphy/WangStyle/blob/main/700195695.png)
-![普通用户](https://github.com/dinphy/WangStyle/blob/main/4091944570.png)
+![白色模式](https://github.com/dinphy/WangStyle/raw/main/1343550981.png)
+![黑暗模式](https://github.com/dinphy/WangStyle/raw/main/700195695.png)
+![普通用户](https://github.com/dinphy/WangStyle/raw/main/4091944570.png)
