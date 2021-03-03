@@ -50,21 +50,6 @@ V2.0
 V1.0
 > 初步美化适配
 
-[tabs]
-[tab-pane label="PC端界面"]
-![20210121205549.png][1]
-![20210121205518.png][2]
-![20210126225425.png][3]
-[/tab-pane]
-[tab-pane label="移动端界面"]
-![2.png][4]
-![4.png][5]
-[/tab-pane]
-[/tabs]
-
-
-  [1]: https://xwsir.cn/usr/uploads/2021/01/4091944570.png
-  [2]: https://xwsir.cn/usr/uploads/2021/01/1343550981.png
-  [3]: https://xwsir.cn/usr/uploads/2021/01/700195695.png
-  [4]: https://xwsir.cn/usr/uploads/2020/12/2707751624.png
-  [5]: https://xwsir.cn/usr/uploads/2020/12/2528975400.png
+![白色模式](https://github.com/dinphy/WangStyle/blob/main/1343550981.png)
+![黑暗模式](https://github.com/dinphy/WangStyle/blob/main/700195695.png)
+![普通用户](https://github.com/dinphy/WangStyle/blob/main/4091944570.png)
